@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html body{
+    height: 100%;
+    width: 100%;
+}
+
+.bulb{
+    height: 300px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 40%;
+    border-radius: 50%;
+    border: solid black;
+}
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 50px;
+   
+}
+i{
+    width: 100px;
+    height: 100px;
+}

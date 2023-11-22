@@ -11,8 +11,8 @@ const regularUser = {
     email: "some@gmail.com",
     fullname: {
         userfullname: {
-            firstname: "hitesh",
-            lastname: "choudhary"
+            firstname: "harish",
+            lastname: "meena"
         }
     }
 }
